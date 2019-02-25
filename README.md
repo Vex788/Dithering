@@ -10,7 +10,7 @@ Dithering is a simplified image, for example, a color image can be simplified to
 
 ### Screenshots
 
-![Screenshot1](https://github.com/Vex788/Dithering/blob/master/scrn1.png)
+![Screenshot1](https://github.com/Vex788/Dithering/blob/master/scrn.png)
 
 ![Screenshot2](https://github.com/Vex788/Dithering/blob/master/scrn2.png)
 
